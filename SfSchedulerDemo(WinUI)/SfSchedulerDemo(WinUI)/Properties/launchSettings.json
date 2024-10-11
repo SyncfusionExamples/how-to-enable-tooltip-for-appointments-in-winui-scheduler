@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SfSchedulerDemo(WinUI) (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SfSchedulerDemo(WinUI) (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
