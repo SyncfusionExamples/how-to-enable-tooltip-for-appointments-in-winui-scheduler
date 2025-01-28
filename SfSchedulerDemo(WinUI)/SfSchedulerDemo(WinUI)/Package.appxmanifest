@@ -9,14 +9,14 @@
 
   <Identity
     Name="6a143f86-7bec-4e37-94c8-0c2419ca64f8"
-    Publisher="CN=GokulGanesan"
+    Publisher="CN=Syncfusion"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="6a143f86-7bec-4e37-94c8-0c2419ca64f8" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>SfSchedulerDemo(WinUI)</DisplayName>
-    <PublisherDisplayName>GokulGanesan</PublisherDisplayName>
+    <PublisherDisplayName>Syncfusion</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 

@@ -1,10 +1,10 @@
-﻿using Microsoft.UI.Xaml.Media;
-using System;
-using System.Collections.ObjectModel;
-using System.ComponentModel;
-
-namespace SfSchedulerDemo_WinUI_.Model
+﻿namespace SfSchedulerDemo_WinUI_.Model
 {
+    using Microsoft.UI.Xaml.Media;
+    using System;
+    using System.Collections.ObjectModel;
+    using System.ComponentModel;
+
     /// <summary>
     /// Represents the model for a scheduler item.
     /// </summary>

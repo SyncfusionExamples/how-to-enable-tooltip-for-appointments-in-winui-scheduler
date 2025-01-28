@@ -1,7 +1,6 @@
-using Microsoft.UI.Xaml;
-
 namespace SfSchedulerDemo_WinUI_
 {
+    using Microsoft.UI.Xaml;
     /// <summary>
     /// An empty window that can be used on its own or navigated to within a Frame.
     /// </summary>

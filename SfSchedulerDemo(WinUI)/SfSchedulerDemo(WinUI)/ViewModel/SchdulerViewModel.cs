@@ -1,13 +1,13 @@
-﻿using Microsoft.UI.Xaml.Media;
-using Syncfusion.UI.Xaml.Scheduler;
-using System;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.ComponentModel;
-using Windows.UI;
-
-namespace SfSchedulerDemo_WinUI_
+﻿namespace SfSchedulerDemo_WinUI_
 {
+    using Microsoft.UI.Xaml.Media;
+    using Syncfusion.UI.Xaml.Scheduler;
+    using System;
+    using System.Collections.Generic;
+    using System.Collections.ObjectModel;
+    using System.ComponentModel;
+    using Windows.UI;
+
     public class SchdulerViewModel : INotifyPropertyChanged
     {
         /// <summary>
