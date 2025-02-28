@@ -198,7 +198,6 @@
         private Brush GetAppointmentForeground(Brush backgroundColor)
         {
             var brush = backgroundColor as SolidColorBrush;
-
             if (brush.Color.ToString().Equals("#FF8551F2") || brush.Color.ToString().Equals("#FF5363FA") || brush.Color.ToString().Equals("#FF2D99FF"))
             {
                 return new SolidColorBrush(Microsoft.UI.Colors.White);
